@@ -10,7 +10,7 @@ Before running for the first time, there are a few things to do first. Start by 
  - Go to [FurAffinity](furaffinity.net) and login to your account. 
  - On the home page, press F12 or right click and inspect. In the menu that just opened, click the network tab at the top and press Ctrl+R. 
 
- ![Chrome Inspect Element](images%5Cinspect.png)
+ ![Chrome Inspect Element](images/inspect.png)
  
  - Once the page has reloaded scroll to the top of that menu and click on `www.furaffinity.net`. Once that has opened, navigate to the cookies tab, find the 'a' and 'b' cookies and copy their value into the config.ini file (You can edit it using any text editor).
 
